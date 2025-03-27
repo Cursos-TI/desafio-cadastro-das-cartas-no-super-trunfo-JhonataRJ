@@ -61,6 +61,7 @@ int main(){
     printf("quantos pontos turísticos possui: \n");
     scanf("%d" , &pontosturisticos);
     
+    printf("novo commit\n");
      
     
 
