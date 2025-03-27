@@ -40,7 +40,7 @@ printf("cidade2: %n\n" , cidade2);
 printf("populaçao: %d habitantes" , populaçao2);
 printf("area: %.2f km²\n" , area2);
 printf("pib: %.2f bilhoes de reais" , pib2);
-printf("pontos, turisticos: %d" , pontos turisticos2);
+printf("pontos, turisticos: %d" , pontos, turisticos2);
 
 
 
